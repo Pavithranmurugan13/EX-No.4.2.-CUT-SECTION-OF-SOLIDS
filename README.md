@@ -1,5 +1,7 @@
 # EX No.4.2. CUT SECTION OF SOLIDS
-## DATE:
+## DATE: 10.11.2025
+# NAME: PAVITHRAN MJ
+# REG NO: 212223240112
 
 ## AIM: 
 To create the solid model from given drawing and section the solid model
@@ -42,6 +44,7 @@ To create the solid model from given drawing and section the solid model
 ![image](https://user-images.githubusercontent.com/113594316/199409656-c021c100-857a-4ae4-9752-9ae59465c9c2.png)
 
 ## OUTPUT:
+<img width="533" height="758" alt="Screenshot 2025-11-10 084607" src="https://github.com/user-attachments/assets/4aa19b49-6338-403a-bda2-5fb0a483d322" />
 
 ## RESULT:
 Thus, the cut section for solid model is created.
